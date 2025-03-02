@@ -12,9 +12,9 @@ Nosso foco está em oferecer consultoria especializada e serviços que aceleram 
 
 ## Como Fazemos
 
-🔹 **Consultoria estratégica** para transformar desafios em soluções escaláveis.
-🔹 **Ferramentas e serviços** que reduzem fricção e aceleram processos.
-🔹 **Melhores práticas** para otimizar infraestrutura, automação e cultura DevOps.
+- **Consultoria estratégica** para transformar desafios em soluções escaláveis.
+- **Ferramentas e serviços** que reduzem fricção e aceleram processos.
+- **Melhores práticas** para otimizar infraestrutura, automação e cultura DevOps.
 
 ## Nossa Cultura
 
