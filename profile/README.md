@@ -8,7 +8,9 @@
 
 A Cloud Craft nasceu da vontade de transformar a adoção de tecnologias cloud, engenharia de plataforma e DevOps em um processo ágil, eficiente e sem frustrações. Somos um time apaixonado por tecnologia, que acredita no poder da automação e na escalabilidade das boas práticas.
 
-Nosso foco está em oferecer consultoria especializada e serviços que aceleram a jornada de empresas rumo a uma infraestrutura moderna, segura e de alta performance. Com expertise em **AWS, Kubernetes, pipelines CI/CD (GitHub Actions, GitLab CI, etc.) e Terraform**, desenvolvemos soluções que se integram perfeitamente ao contexto de cada cliente, atuando como uma **catapulta para inovação e adoção de tecnologias**.
+Nosso foco está em oferecer consultoria especializada e serviços que aceleram a jornada de empresas rumo a uma infraestrutura moderna, segura e de alta performance. 
+
+Com expertise em **AWS, Kubernetes, pipelines CI/CD (GitHub Actions, GitLab CI, etc.) e Terraform**, desenvolvemos soluções que se integram perfeitamente ao contexto de cada cliente, atuando como uma **catapulta para inovação e adoção de tecnologias**.
 
 ## Como Fazemos
 
