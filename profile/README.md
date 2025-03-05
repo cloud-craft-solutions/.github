@@ -2,8 +2,6 @@
 
 <a name="readme-top"></a>
 
-# Cloud Craft
-
 ## Quem Somos
 
 A Cloud Craft nasceu da vontade de transformar a adoção de tecnologias cloud, engenharia de plataforma e DevOps em um processo ágil, eficiente e sem frustrações. Somos um time apaixonado por tecnologia, que acredita no poder da automação e na escalabilidade das boas práticas.
